@@ -1,7 +1,7 @@
 # Heat-source-detection
 
 ## Overview
-The code performs deblurring of images using the MCMC approach designed based the mixed norm theorem presented in the paper.
+The code performs deblurring of images using the MCMC approach designed based on the mixed norm theorem presented in the paper.
 
 ## Description
 
