@@ -16,6 +16,5 @@ The main file is  Heat1d.ipynb that recovers random heat sources from it's diffu
 experiments of deblurring 1D signals with small TV norm.
 The main function that performs the recontruction is HSRC.py.
 
-![Results](heat_source_rec.svg)
 
 
